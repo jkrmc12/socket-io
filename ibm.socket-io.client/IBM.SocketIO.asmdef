@@ -1,0 +1,22 @@
+{
+    "name": "IBM.SocketIO",
+    "references": [
+        "GUID:8963423edfb07ff4795e8e634cb18a0c",
+        "GUID:ccf40d7b9dadf7b40b176d565bc609aa"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor",
+        "LinuxStandalone64",
+        "macOSStandalone",
+        "WindowsStandalone32",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
